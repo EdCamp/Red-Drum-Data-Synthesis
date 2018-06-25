@@ -9,7 +9,7 @@ The code hosted here describes the analyses and the creation of figures and outp
 Project uses both fisheries independent and dependent data.  Currently only code using fisheries independent data from the state of FL is available on this project.
 All data are available via Florida Fish and Wildlife Research Institute; the raw data are not posted here.
 
-The code currently has 6 steps or parts, described below:
+The code currently has 4 steps or parts, described below:
 1. Creating catch files
   -Currently not implemented pending review of collaborators.  It will be added when authorized.
   
